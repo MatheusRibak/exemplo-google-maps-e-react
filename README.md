@@ -22,6 +22,11 @@ cd exemplo-google-maps-e-react
 npm install google-maps-react
 ```
 
+### Antes de continuarmos algumas observações importantes:
+**Obs¹: Todas as alterações devem ser feitas no arquivo App.js.**
+
+**Obs²: Remova o código padrão gerado de function App() até export default App.**
+
 ### Realizando o import do Maps em nosso código
 
 **Após ter feito as instalações abra o aplicativo e realize a seguinte importação para termos acesso ao Maps:**
