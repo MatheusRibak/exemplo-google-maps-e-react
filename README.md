@@ -35,9 +35,9 @@ npm install google-maps-react
 import { Map, GoogleApiWrapper } from 'google-maps-react';
 ```
 
-### Precisamos realizar o import "Component" que será usado logo a seguir:
+**Precisamos realizar o import "Component" que será usado logo a seguir:**
 
- ```react
+ ```javascript
 import React, { Component } from 'react';
 ```
 
