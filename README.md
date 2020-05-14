@@ -35,9 +35,13 @@ npm install google-maps-react
 import { Map, GoogleApiWrapper } from 'google-maps-react';
 ```
 
-### Adicionado o Maps ao nosso código
+### Precisamos realizar o import "Component" que será usado logo a seguir:
 
-**Depois de ter feito a importação basta adicionar o seguinte código para adicionar o Maps ao código:**
+ ```react
+import React, { Component } from 'react';
+```
+
+**Depois de ter feito as importações basta adicionar o seguinte código para adicionar o Maps ao código:**
 
 ```javascript
 export class MapContainer extends Component {
