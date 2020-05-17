@@ -1,4 +1,4 @@
-# exemplo-google-maps-e-react
+# Exemplo Google Maps e React
 
 Este é um exemplo de como utilizar o Google Maps juntamente com o React. 
 Ele foi postado originalmente no dev.to, caso queira acessar basta clicar aqui:
